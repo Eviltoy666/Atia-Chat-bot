@@ -1,5 +1,5 @@
 <context>
-    <input pattern="ïðèâåò">
-        <output value="Ïðèâåòèê"/>
+    <input pattern="Ð¿Ñ€Ð¸Ð²ÐµÑ‚">
+        <output value="ÐŸÑ€Ð¸Ð²ÐµÑ‚Ð¸Ðº"/>
     </input>
 </context>
